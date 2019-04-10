@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      {{ 'OUR_MODULES' | translate }}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+  
+    <ion-card-content>
+      <ion-img src="/assets/icon/open_temo.jpeg"></ion-img>
+      <ion-item>
+        <ion-card-title>{{modules[selectedID].title}}</ion-card-title>
+      </ion-item>
+  <br>
+      <p>{{modules[selectedID].note}}</p>
+    </ion-card-content>
+  </ion-card>
+  </ion-content>
