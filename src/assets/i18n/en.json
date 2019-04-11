@@ -8,6 +8,14 @@
     "OUR_GITHUB_ACCOUNT": "Our GitHub Account",
     "GET_HELP_FROM_OUR_MEDIUM": "Get Help From Our Medium",
 
-    "OUR_MODULES": "Our Modules"
+    "OUR_MODULES": "Our Modules",
+
+    "MODULE1": "Portal Site helps you make site.",
+    "MODULE2": "Portal Base is base modul of Portal.",
+    "MODULE3": "Portal Content helps manage your content.",
+    "MODULE4": "Portal User can helps about user proseses.",
+    "MODULE5": "Portal Menu helps you create and manage menues.",
+    "MODULE6": "Portal Theme gives you easy and usefull theme.",
+    "MODULE7": "Portal Gii provides you code generator."
 
 }

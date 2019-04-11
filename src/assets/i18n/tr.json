@@ -8,5 +8,13 @@
     "OUR_GITHUB_ACCOUNT": "GitHub Hesabımız",
     "GET_HELP_FROM_OUR_MEDIUM": "Medium hesabımızdan yardım al",
 
-    "OUR_MODULES": "Modüllerimiz"
+    "OUR_MODULES": "Modüllerimiz",
+
+    "MODULE1": "Portal Site site yapmanda yardım eder.",
+    "MODULE2": "Portal Base Portal projesinin temel modülüdür.",
+    "MODULE3": "Portal Content sana içerikleri yönetmene yardım eder.",
+    "MODULE4": "Portal User sana kullanıcı süreçlerinde yardım eder.",
+    "MODULE5": "Portal Menu sana menü oluşturmanda ve yönetmende yardım eder.",
+    "MODULE6": "Portal Theme sana kolay ve kullanışlı temalar sunar.",
+    "MODULE7": "Portal Gii sana kod üretmeyi sağlar."
 }
